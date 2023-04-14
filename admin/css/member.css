@@ -1,0 +1,86 @@
+header {
+	padding-top: 3%;
+	font-weight: bold;
+	padding-left: 5%;
+
+}
+
+form {
+	margin-left: 5%;
+	margin-top: 2%;
+}
+
+
+
+label {
+	/*color:#333333;*/
+	font-weight: bold;
+}
+
+#default {
+	background-color:#009933;
+	color:rgb(255, 255, 255);
+	width: 30%;
+	height: 35px;
+	border-radius: 5%;
+}
+
+#remove_group {
+	background-color:#009933;
+	color:rgb(255, 255, 255);
+	width: 30%;
+	height: 35px;
+	border-radius: 5%;
+}
+
+.btn-primary {
+	color:rgb(255, 255, 255);
+	background-color: #00b4c1;
+	width: 40%;
+	font-weight: bold;
+}
+
+.btn:hover {
+	background-color: #00b4c1;
+}
+
+.btn-default {
+	color:rgb(255, 255, 255);
+	background-color: #00b4c1;
+	width: 40%;
+	height: 40px;
+	font-weight: bold;
+	border-radius: 5%;
+	margin-left: 20%;
+}
+
+.member_form {
+	background-color:#fff;
+	height: 520px;
+}
+
+.group_form {
+	background-color:#fff;
+	height: 450px;
+}
+
+.group_table {
+	background-color:#fff;
+	height: 450px;
+}
+
+.display_member {
+	background-color: yellow;
+	height: 450px;
+}
+
+#group_name {
+	width: 40%;
+}
+
+.form-group textarea{
+	width: 40%;
+	height: 150px;
+}
+
+
